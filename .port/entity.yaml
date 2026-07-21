@@ -1,0 +1,20 @@
+identifier: ever-gauzy
+title: Ever Gauzy
+blueprint: repository
+properties:
+  description: |
+    Open-source ERP/HR management platform (Ever Gauzy), used as the pilot
+    project for evaluating the DeepHealth engineering stack. Includes
+    time tracking, project management, invoicing, and a Cube.js-based
+    analytics layer.
+  owner_team: "Pilot Team"
+  tech_stack:
+    - NestJS
+    - Angular
+    - PostgreSQL
+    - Redis
+    - Cube.js
+  repo_url: "https://github.com/ever-co/ever-gauzy"
+  documentation_url: "https://github.com/ever-co/ever-gauzy/wiki"
+  status: active
+  primary_language: TypeScript
